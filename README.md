@@ -4,5 +4,5 @@
 
 Para rodar este projeto na sua maquina, por favor digite
 '''
-docker run ubuntu
+node app.js
 '''
